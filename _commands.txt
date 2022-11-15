@@ -1,2 +1,2 @@
-ng build --prod
+ng build --base-href https://vlad-salabun.github.io --prod
 ng generate component index
