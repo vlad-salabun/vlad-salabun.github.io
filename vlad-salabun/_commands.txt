@@ -1,0 +1,2 @@
+ng build --prod
+ng generate component index
