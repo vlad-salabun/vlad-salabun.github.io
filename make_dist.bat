@@ -1,0 +1,1 @@
+ng build --base-href https://vlad-salabun.github.io --prod && cd docs && copy index.html 404.html
